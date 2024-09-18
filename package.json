@@ -1,5 +1,5 @@
 {
-  "homepage":"https://GaukharTok.github.io/react-homework-2",
+  "homepage": "https://GaukharTok.github.io/react-homework-2",
   "name": "lesson-5",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
